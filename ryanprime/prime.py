@@ -1,3 +1,4 @@
+# https://github.com/rtang09/math/blob/main/numbermath.py is a newer version
 from math import *
 primes = []
 def check(number):
